@@ -1,0 +1,6 @@
+{
+  "name": "Wake Up Tunisia",
+  "description": "منصة تفاعلية تهدف لمساعدتك على الخروج من الدائرة المالية المغلقة، وبناء وعي مالي حقيقي، وتحليل نفقاتك والتخطيط لثروتك المستدامة في تونس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
